@@ -6,12 +6,17 @@
     "edad":27,
     "aptitud":true,
     "objetos":{"prop1":"valor1"},
-    "arregloDeObjetos":[
+    "arregloDeObjetosExperiencia":[
         {"empresa":"microsoft",
          "anios":5
         },
         {"empresa":"amazon",
         "anios":3
         }
-    ]
+    ],
+    "direccion":{
+        "ciudad":"iquique",
+        "comuna":"hospicio",
+        "calle":"pampa union"
+    }
 }
