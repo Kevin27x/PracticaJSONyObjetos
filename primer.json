@@ -1,0 +1,17 @@
+
+{
+    "nombre":"Marco",
+    "apellido":"Rivas",
+    "conocimientos":["HTML","CSS","JAVASCRIPT","BOOTSTRAP","JQUERY","API REST"],
+    "edad":27,
+    "aptitud":true,
+    "objetos":{"prop1":"valor1"},
+    "arregloDeObjetos":[
+        {"empresa":"microsoft",
+         "anios":5
+        },
+        {"empresa":"amazon",
+        "anios":3
+        }
+    ]
+}
